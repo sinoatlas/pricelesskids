@@ -1,0 +1,17 @@
+{
+  "label": "自拟教学输入，不是江苏平均价或报价",
+  "price_year": 2026,
+  "birth_once": 5000,
+  "inflation": 0,
+  "annual_housing_increment": 0,
+  "annual_opportunity_cost": 0,
+  "benefits_total": 0,
+  "stages": [
+    {"name":"0—3岁","years":3,"start_age":0,"annual":{"food":8000,"supplies":3600,"clothing_transport":1200,"health":1200,"education_care":0,"optional":2000}},
+    {"name":"3—6岁","years":3,"start_age":3,"annual":{"food":6000,"supplies":1000,"clothing_transport":2000,"health":1000,"education_care":6000,"optional":2000}},
+    {"name":"小学","years":6,"start_age":6,"annual":{"food":7000,"supplies":1000,"clothing_transport":2000,"health":1000,"education_care":2000,"optional":2000}},
+    {"name":"初中","years":3,"start_age":12,"annual":{"food":8000,"supplies":1000,"clothing_transport":2500,"health":1500,"education_care":3000,"optional":2000}},
+    {"name":"高中","years":3,"start_age":15,"annual":{"food":10000,"supplies":1000,"clothing_transport":3000,"health":2000,"education_care":6000,"optional":2000}},
+    {"name":"大学","years":4,"start_age":18,"annual":{"food":15000,"supplies":2000,"clothing_transport":3000,"health":1500,"education_care":6500,"optional":2000}}
+  ]
+}
